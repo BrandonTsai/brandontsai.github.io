@@ -1,5 +1,5 @@
 ---
-title: #1 Furniture And Decoration
+title: "#1 Furniture And Decoration"
 author: Brandon Tsai
 date: 2021-02-11
 category: Jekyll
