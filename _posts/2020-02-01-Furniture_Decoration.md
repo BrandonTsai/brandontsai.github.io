@@ -1,7 +1,7 @@
 ---
 title: "#1 Furniture And Decoration"
 author: Brandon Tsai
-date: 2021-02-11
+date: 2021-02-01
 category: Jekyll
 layout: post
 ---
