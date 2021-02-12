@@ -32,8 +32,7 @@
 
             <li class="divider"></li>
 
-            {% assign reversed_categories = site.categories | reverse %}
-            {% for category in reversed_categories %}
+            {% for category in site.categories %}
                 {% capture category_name %}{{ category | first }}{% endcapture %}
                 {% if category_name != "Jekyll" %} 
                     <li class="category-head">{{ category_name }}</li>
