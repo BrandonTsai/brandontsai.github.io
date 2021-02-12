@@ -5,8 +5,6 @@ layout: home
 Brandon's Secret English Notes
 ==============================
 
-Topics
------
 
 - Furniture and Decoration
 - Hoursework
