@@ -35,7 +35,7 @@
             {% for category in site.categories %}
                 {% capture category_name %}{{ category | first }}{% endcapture %}
                 {% if category_name != "Jekyll" %} 
-                    <li class="chapter-title"><p>{{ category_name }}</p></li>
+                    <li class="chapter-title">{{ category_name }}</li>
                     {% assign reversed_postsss = site.categories[category_name] | reverse %}
                     {% for post in reversed_postsss %}
                         {% if page.url == post.url %}
