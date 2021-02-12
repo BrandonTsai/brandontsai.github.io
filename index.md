@@ -1,3 +1,6 @@
+---
+layout: home
+---
 
 # Brandon's Secret English Notes
 
@@ -9,14 +12,15 @@ Hello World! Let's talk in English!
 - Hoursework
 - Home
 - Festivals
-- Wedding Ceremony and Custom
+- Wedding Ceremony & Custom
 - Weather
 - Food
 - Education
 - Work
-- TV shows or Dramas
+- TV shows / Dramas / Movies
 - Shopping
 - Sport/Exercise
 - Music
 - Famous People
+
 - Animals
