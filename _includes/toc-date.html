@@ -31,6 +31,11 @@
             {% endfor %}
 
             <li class="divider"></li>
+
+            {% for category in site.categories %}
+                {% capture category_name %}{{ category | first }}{% endcapture %}
+                <li class="category-head">{{ category_name }}</li>
+            {% endfor %}
         </ul>
     </nav>
 </div>
