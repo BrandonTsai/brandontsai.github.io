@@ -31,12 +31,13 @@
             {% endfor %}
 
             <li class="divider"></li>
-
-            {% for category in site.categories | reverse %}
+            {% assign reversed_category = site.categories | reverse %}
+            {% for category in reversed_category %}
                 {% capture category_name %}{{ category | first }}{% endcapture %}
                 {% if category_name != "Jekyll" %} 
                     <li class="category-head">{{ category_name }}</li>
-                    {% for post in site.categories[category_name] | reverse %}
+                    {% assign reversed_posts = site.categories[category_name] | reverse %}
+                    {% for post in reversed_posts %}
                         {% if page.url == post.url %}
                         <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
                         {% else %}
