@@ -21,5 +21,4 @@ Hello World! Let's talk in English!
 - Sport/Exercise
 - Music
 - Famous People
-
 - Animals
