@@ -13,7 +13,7 @@
                     {{ site.title | escape }}
                 </a>
             </li>
-
+<!-- 
             <li class="divider"></li>
 
             {% assign reversed_posts = site.posts | reverse %}
@@ -28,10 +28,12 @@
                         {{ post.title | escape }}
                     </a>
                 </li>
-            {% endfor %}
+            {% endfor %} -->
 
             <li class="divider"></li>
-            {% for category in site.categories %}
+
+            {% assign reversed_categories = site.categories | reverse %}
+            {% for category in reversed_categories %}
                 {% capture category_name %}{{ category | first }}{% endcapture %}
                 {% if category_name != "Jekyll" %} 
                     <li class="category-head">{{ category_name }}</li>
@@ -49,6 +51,7 @@
                     {% endfor %}
                 {% endif %}
             {% endfor %}
+
         </ul>
     </nav>
 </div>
