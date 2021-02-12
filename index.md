@@ -2,6 +2,9 @@
 layout: home
 ---
 
+# Brandon's Secret English Notes
+
+Hello World! Let's talk in English!
 ## Topics
 
 
