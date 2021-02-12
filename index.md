@@ -16,8 +16,9 @@ Hello World! Let's talk in English!
 - Food
 - Education
 - Work
-- TV shows / Dramas / Movies
+- Clothes
 - Shopping
+- TV shows / Dramas / Movies
 - Sport/Exercise
 - Music
 - Famous People
