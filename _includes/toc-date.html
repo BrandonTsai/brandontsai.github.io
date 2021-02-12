@@ -32,7 +32,7 @@
 
             <li class="divider"></li>
 
-            {% for category in site.categories %}
+            {% for category in site.categories | reverse %}
                 {% capture category_name %}{{ category | first }}{% endcapture %}
                 <li class="category-head">{{ category_name }}</li>
                 {% for post in site.categories[category_name] %}
