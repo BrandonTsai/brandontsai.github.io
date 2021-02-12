@@ -86,3 +86,6 @@ Children do chores:
 - takes the pressure off
 - housewife should get paid. -> Housekeeper
 
+
+
+
