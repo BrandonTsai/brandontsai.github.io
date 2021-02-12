@@ -18,7 +18,6 @@ Housework
 - Do you think that men and women should share housework?
 - What kinds of household chores do you dislike doing?
 
----
 
 Tidy
 - Are you a tidy person?
