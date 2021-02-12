@@ -27,10 +27,10 @@ Who takes part in it
 What activities there are
 And how you feel about is
 
-1) How do people value traditional festivals?
-2) What’s the difference between festivals now and those in the past?
-3) Do you think western festival like Christmas are replacing traditional festivals in your country?
-4) what are the benefits of celebrating traditional festivals?
+1. How do people value traditional festivals?
+1. What’s the difference between festivals now and those in the past?
+1. Do you think western festival like Christmas are replacing traditional festivals in your country?
+1. what are the benefits of celebrating traditional festivals?
 
 
 
