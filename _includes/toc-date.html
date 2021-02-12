@@ -32,11 +32,11 @@
 
             <li class="divider"></li>
 
-            {% for category in site.categories %}
+            {% for category in site.categories | reverse %}
                 {% capture category_name %}{{ category | first }}{% endcapture %}
                 {% if category_name != "Jekyll" %} 
                     <li class="category-head">{{ category_name }}</li>
-                    {% for post in site.categories[category_name] %}
+                    {% for post in site.categories[category_name] | reverse %}
                         {% if page.url == post.url %}
                         <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
                         {% else %}
