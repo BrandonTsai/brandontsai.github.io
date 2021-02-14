@@ -1,4 +1,3 @@
-
 ---
 title: "#101 Procrastination"
 author: Brandon Tsai
