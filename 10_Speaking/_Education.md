@@ -54,3 +54,17 @@ General
 
 Notes
 =====
+
+Taiwan Education System:
+- Everyone go to high school and universities
+- less and less peole go to `vocational school`
+- University replace `vocational school` and become job training institution.
+- Bachelor degree is useless because every young people has it.
+- It is common to attend "`after-school programs`" or "tutoring centers"
+
+
+Psychology
+- the way the human mind works and how it influences behaviour
+- The behavior of shopping -> Shopaholic
+- Procrastination
+- Post-traumatic stress disorder
