@@ -46,16 +46,18 @@ Casual Talk
 - Where do people buy funitures?
 - Do you need to take off your shoes on the entrance when entering the house
 - Where is the washing machine? Loundry room, balcony, or bathroom?
-  - Do you use tumble dryer?
 - Do people usually put carpet on the floor in their home?
 - Is there any central heating system with radiator in the room? or People usually use fan heater and electric blanket？
-  - Any tips to survive in the korean winter?
-- How's the weather? It is required to buy a humidifier?
-- (Smart Home: smart light bulb ?)
-- Traditional decoration cultures/principles:
-  - "Feng Shui" is an ancient Chinese art of arranging buildings, objects, and space in an environment to achieve harmony and balance in a way that will bring peace and prosperity.
-  - The door of bashroom can't face your bed.
-  - "Amethyst" can bring fortune
+	- Any tips to survive in the korean winter?
+- (Share) Free furnitures :
+	- Most major city councils in Australia operate a free kerbside collection service ![Kerbside collection Sydney](https://www.canstar.com.au/wp-content/uploads/2020/11/Kerbside-collection-Sydney.jpg)
+- Traditional decoration cultures/principles in your country?
+	- "Feng Shui" is an ancient Chinese art of arranging buildings, objects, and space in an environment to achieve harmony and balance in a way that will bring peace and prosperity.
+	- The door of bashroom can't face your bed.
+	- "Amethyst" can bring fortune
+- Decoration for Christmas/Halloween
+![](https://i.pinimg.com/736x/da/d0/bb/dad0bbaa3c32c28162a8f8042bcd725b.jpg)
+
 
 
 Vocabulary
@@ -85,7 +87,13 @@ Future buy:
 
 Home Decoration:
 
-- Previous/like/hate: **warm tone** -> **floral curtain**, **flower-patterned curtain**
+- Previous/like/hate: 
+  - **warm tone**
+    - **floral curtain**, **flower-patterned curtain**
+    - Warm colors often evoke feelings of happiness, **optimism** and energy.
+    - can also be **irritating** on the eyes.
+  - cool tone
+    - feel calm and peaceful but can also `express` sadness.
 - Redecorate
   - Light curtains `brighten up` a wall and a light ceiling can brighten up an entire room
   - Paint the wall with light and `neutral` colors.
