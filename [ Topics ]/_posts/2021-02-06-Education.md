@@ -67,6 +67,9 @@ Taiwan Education System:
 - Bachelor degree is useless because every young people has it.
 - It is common to attend "`after-school programs`" or "tutoring centers"
 
+Prestigious
+- Doctor
+- lawer
 
 Psychology
 - the way the human mind works and how it influences behaviour

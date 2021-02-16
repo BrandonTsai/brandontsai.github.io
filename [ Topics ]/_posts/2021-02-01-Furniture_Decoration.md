@@ -71,44 +71,44 @@ Accommodation:
 
 Furniture I have/like/hate:
 
-- My parents give me a `antique vase` as the gift on the `housewarming party`
-- I bought a `carpet` with zebra print and the fabric has a very `soft texture`.
-- Most of my furniture `is made out of` woods/glasses.
+- My parents give me a **antique vase** as the gift on the **housewarming party**
+- I bought a **carpet** with zebra print and the fabric has a very **soft texture**.
+- Most of my furniture **is made out of** woods/glasses.
 
 > Notice: Furniture is uncountalbe. No ~~Furnitures~~
 
 Future buy:
 
-- It is widely believed that `tumble dryer`, `robotic vacuum cleaner` and `dish washer` can help people save marriage from divorce
-- Smart `household appliances`, such as google assistant and smart light bulb.
+- It is widely believed that **tumble dryer**, **robotic vacuum cleaner** and **dish washer** can help people save marriage from divorce
+- Smart **household appliances**, such as google assistant and smart light bulb.
 
 
 Home Decoration:
 
-- Previous/like/hate: `warm tone` -> `floral curtain`, `flower-patterned curtain`
+- Previous/like/hate: **warm tone** -> **floral curtain**, **flower-patterned curtain**
 - Redecorate
-  - Light curtains **brighten up** a wall and a light ceiling can brighten up an entire room
-  - Paint the wall with light and **neutral** colors.
+  - Light curtains `brighten up` a wall and a light ceiling can brighten up an entire room
+  - Paint the wall with light and `neutral` colors.
   - hang paintings and photographs
-- Why not Renovate/Redecoratwe?
-  - `unfit for human habitation`
+- Why not Renovate/Redecorate?
+  - **unfit for human habitation**
   - limited budget
 
 Decoration Style:
 
-- `Minimalism`: 
-  - Minimalism is all about living with less. **minimalists** usually **get rid of excess stuff** and living life based on experiences rather than worldly possessions
-  - The `interior design` is simple, but very pleasant to look at.
+- **Minimalism**: 
+  - Minimalism is all about living with less. **minimalists** usually `get rid of excess stuff` and living life based on experiences rather than worldly possessions
+  - The **interior design** is simple, but very pleasant to look at.
 
 
 - Modern:
   - Furniture pieces were no longer made exclusively out of wood.
-  - I prefer Modern style because traditional style needs too much of `interior` items *which* `contradicts` to me **being** a minimalist.
+  - I prefer Modern style because traditional style needs too much of **interior** items *which* **contradicts** to me `being` a minimalist.
 - Traditional:
-  - dark woods, `elegant wallpaper`, `patterned rugs` and `intricate detail`.
+  - dark woods, **elegant wallpaper**, **patterned rugs** and **intricate detail**.
 
 - Back to 1980:
   - Poster of Elvis Presley, Michael Jackson
   - Antique JukeBox play songs from 1980 to 1990
-  - `Every nook and cranny` of the bar was filled with artcrafts made at the period
+  - **Every nook and cranny** of the bar was filled with artcrafts made at the period
   - American country style
