@@ -47,7 +47,8 @@ Notes
 How and Why:
 - `mindless` activity
 - live a comfortable life
-- do a deep clean every two weeks, but keep tidying up during the week.
+- do a deep clean once a month, but try to keep tidying up during the week.
+- can not **tolerate** the messy/untidy environment.
 - rotation chore assignment chart
 - sometimes we have to `compromise` **with** tidiness.
 - not be able to focus much on cleanliness which is acceptable **in that circumstance**.
