@@ -10,68 +10,40 @@ Vocabulary
 ========
 
 
-
-<div style="page-break-after: always;"></div>
+<iframe src="https://quizlet.com/570655858/flashcards/embed?i=7u4xy&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
 Notes
 ======
 
-Things stay **civil**
-start off light
-bump it up
-kick it up into high gear
-revised plan
-pulling two all-nighters
-printed across campus
-perplexed
-hypothesis
-rational decision maker
--> Visualize the picture
--> see the big picture
--> make long plan
-instanct gratification Monkey
-spiral
-tribal time
-harder and less pleasure
-leisure activity
-unearned
-ddread
-self-hatred
-turns out
-guardian
-relevant
-Panic Monster
-excitement
-mayhem
-insane
-miraculously
-ethic
-literally
-struck contrast
-the light tone of the post
-spectator 
-epiphany
+Brian:
+
+* rational decision maker
+  - Visualize the picture
+  - see the big picture
+  - make long plan
+* instinct gratification Monkey
+  - easy and fun,
+  - enjoy the moment and get immediate result
+* Panic Moster
+  - To frighten the monkey, and let rational decision maker control the wheel
+  - pull all-nighter to meet the deadline.
+  - No deadline -> no Panic Moster involve -> long term and hidden procrastination.
 
 
 
-> What is inside the mind of procrastinator? 
+> - What is inside the mind of procrastinator?
+> - Why do we procrastinate? 
+> - How should we stop procrastinating?
 
-There is a monkey who always trying to take control
+For procrastinators, There is a **instinct gratification monkey** in their brain who always trying to take control the wheel of their behavir so that they can do something which is easy and fun instead of hard and board.
+
+He mentioned that A deadline can trigger the panic monster to reduce the effect of procrastination.
+
+However, there is another hidden procrastination when there is no deadline. such as losing weight, fix a relationship, .. etc.
+He introduced the "Life calander" which is a box for every week of a 90-year life. He thought we need to take some time to fill the calander and thought how much time left for us to chasing our dream.
 
 
-
-> Why do we procrastinate? 
-
-easy and fun,
-immediate result
-no deadline situation -> long term -> no Panic Moster involve. 
-
-
-everyone is pro something in our life
-> How should we stop procrastinating?
-Have a deadline to reduce the effect of procrastinating
-
-Life calander
-
-Want to become Have to
-Partner who have same dream and you can work it on together
+From my perspective,
+- sometime the Monkey can beat the Monster if there is no punishment or rewards on the deadline.
+- Try to revise the "Want to do" list to "Have to do" list.
+- Don't do it alone. Find a partner who have same dream and you can work it on together
