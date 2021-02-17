@@ -15,7 +15,7 @@ Vocabulary
 Notes
 ======
 
-Brian:
+Brain:
 
 * rational decision maker
   - Visualize the picture
