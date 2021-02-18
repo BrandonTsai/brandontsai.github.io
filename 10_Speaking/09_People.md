@@ -79,20 +79,6 @@ Part 3
 
 
 
----
-
-Describe a family (not your own) which you like and are happy to know
-You should say:
-Who are they
-Where they live
-How you knew them
-And explain why you like them
-
-1) What makes a family happy?
-2) What’s the most important quality of parents?
-3) How can new parents learn about parenting?
-4) Do grandparents take care of grandchildren in your country?
-
 
 ---
 
@@ -145,16 +131,3 @@ how you met
 and explain how you feel about your friend.
 
 ---
-
-Describe a family member you spend a lot of time with
-You should say:
-
-who this person is
-what you usually do together
-what kind of person he/she is
-and explain why you spend the most time with him/her.
-
-What are the advantages of strong family relationships?
-How many generations are usually living under one roof in your country?
-What are the benefits, and drawbacks of a family of several generations living together?
-Do both parents have equal responsibilities in taking care of their children?
