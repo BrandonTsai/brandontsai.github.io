@@ -20,22 +20,13 @@ Tips
 	- Build your own ``keyword - Synonyms`` Maps
 
 | keyworld in question | match language in passage |
-|----------------------|---------------------------|
+| -------------------- | ------------------------- |
 
 - For T/F Questions
 	- pay atrention on negative (hardly, seldom) / frequency (always,) words
-
-Strategy for each Question Type
-=========================
-
 
 
 Reference
 ========
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IUcJREhUKGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODg1NTM0Ml19
--->

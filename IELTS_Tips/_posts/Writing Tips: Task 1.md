@@ -86,10 +86,10 @@ Time Management
 **Write Closing and Sign-Off**
 ``1 minutes``
 
-|          | Formal | Informal |
-| -------- | ------ | -------- |
-| Closing  | - ``I look forward to hearing from you`` <BR> - Once again, I would like to apologize for this delay  | - ``I can't wait to hear from you.``<BR> - Again, I'm really sorry for this delay.   |
-| Sign-off | - ``Yours faithfully,`` (If your receiver has No name) <BR> - ``Yours sincerely,`` (If your receiver has a name) | - Cheers, |
+|          | Formal                                                                                                           | Informal                                                                           |
+| -------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Closing  | - ``I look forward to hearing from you`` <BR> - Once again, I would like to apologize for this delay             | - ``I can't wait to hear from you.``<BR> - Again, I'm really sorry for this delay. |
+| Sign-off | - ``Yours faithfully,`` (If your receiver has No name) <BR> - ``Yours sincerely,`` (If your receiver has a name) | - Cheers,                                                                          |
 
 
 **Review and Check**
@@ -121,11 +121,11 @@ Informal:
 
 I am writing you in response to your invitation
 
-|  Usage  |  Formal | Informal |
-| ------- | ------- | ------- |
-| asking | - ``It would be my pleasure if you would`` join us for dinner tonight. <BR> - ``Would you like to`` attend the performance with me? | - ``Do you want to`` have a drink with me? | 
-| accept | - ``Thank you very much for offering to`` have me tomorrow. I'll be there. ``I will be there.`` | - Sure, that would be great! |
-| decline| - ``Thanks for asking, but I am afraid`` I'm busy tonight. <BR> - I ``appreciate the`` wedding ``invitation but won't be able to come due to`` another **engagement**.| Sorry, but I have a conflicting **commitment** and don't think I'll make it. |
+| Usage   | Formal                                                                                                                                                                 | Informal                                                                     |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| asking  | - ``It would be my pleasure if you would`` join us for dinner tonight. <BR> - ``Would you like to`` attend the performance with me?                                    | - ``Do you want to`` have a drink with me?                                   |
+| accept  | - ``Thank you very much for offering to`` have me tomorrow. I'll be there. ``I will be there.``                                                                        | - Sure, that would be great!                                                 |
+| decline | - ``Thanks for asking, but I am afraid`` I'm busy tonight. <BR> - I ``appreciate the`` wedding ``invitation but won't be able to come due to`` another **engagement**. | Sorry, but I have a conflicting **commitment** and don't think I'll make it. |
 
 
 Apology
@@ -147,7 +147,3 @@ Informal:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lBHf7LCWhVs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDkxNjA3ODZdfQ==
--->
