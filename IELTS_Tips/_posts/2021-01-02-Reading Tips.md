@@ -19,8 +19,10 @@ Tips
 - Scan **Synonyms** language in passage.
 	- Build your own ``keyword - Synonyms`` Maps
 
+
 | keyworld in question | match language in passage |
 | -------------------- | ------------------------- |
+|                      |                           |
 
 - For T/F Questions
 	- pay atrention on negative (hardly, seldom) / frequency (always,) words
