@@ -38,7 +38,7 @@ Common Tips
 	- Make sure you can all answer correctly for part 1 before practice part 2
 - Practice:
 	-  Get used to British English accents and British Vocab -> BBC
-	-  Listening Podcast and take notes at the same time
+	-  Listening Podcast (or TV News) and take notes (or write down keywords) at the same time
 
 
 Computer-based tips
