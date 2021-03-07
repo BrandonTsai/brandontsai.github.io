@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://brandontsai.github.io/english-notes'
-baseurl:          ''
+url:              'https://brandontsai.github.io'
+baseurl:          '/english-notes'
 rss:              RSS
 
 # markdown render engine.
