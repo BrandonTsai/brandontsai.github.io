@@ -40,6 +40,20 @@ Casual Talk
 - Which subjects did you study and Why?
 - What is the most popular subject in your country?
 
+Popular Major in Taiwan
+
+Medicine
+Dentist
+—
+Electrical Engineer
+IT
+Materials Science
+—
+Law
+Business Management
+Accounting
+Financial 
+
 
 
 Vocabularies
