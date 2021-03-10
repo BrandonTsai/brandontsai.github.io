@@ -10,3 +10,10 @@ author: Brandon Tsai
 Vocabulary
 ========
 
+Notes
+=====
+
+- **Imbibe** a culture; being able to participate in the culture of the people who speak them.
+- **Dementia** is less likely to set in and probably be a better multitasker
+- Language are an **awful** lotd of fun
+- It has never been easier to learn a new language
