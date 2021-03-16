@@ -34,6 +34,15 @@ Casual Talk
 - Is it common to have physical education in school?
 - Which subjects did you study and Why?
 - What is the most popular subject in your country?
+- Taiwan Popular subjects:
+  - Medicine/Dentist
+  - Electrical Engineer
+  - IT
+  - Materials Science
+  - Law
+  - Business Management
+  - Accounting
+  - Financial
 
 
 
