@@ -99,4 +99,4 @@ Reference
 - https://engoo.com/app/daily-news/article/youtuber-is-fifth-most-popular-dream-job-in-korea/RmJc_BBxEemPgdvODqKdEw
 - https://engoo.com/app/daily-news/article/31-of-uk-students-say-university-not-good-value/JN9mrq6rEeq6aTeHXI6XDg
 - https://engoo.com/app/daily-news/article/study-paper-reading-more-effective-than-screen-reading/OwNW9GFwEemBDZtmfXhvLQ
-
+- https://engoo.com/app/daily-news/article/school-subjects-may-soon-be-a-thing-of-the-past-in-finland/y_e6kKMoEee3dSepcwn6nw

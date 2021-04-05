@@ -23,6 +23,6 @@ Notes
   - "academic ability", which has really come to dominate our view of intelligence,
 - **Academic Inflation**: Degrees aren't worth anything.
 - Intelligence
-  - diverse
-  - dynamic
+  - diverse: think about the world in all the ways
+  - dynamic: creation more often come about through the interaction
   - distinct
