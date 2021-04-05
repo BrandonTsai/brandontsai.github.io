@@ -6,7 +6,6 @@ layout: home
 Hello World! Let's talk in English!
 ## Topics
 
-
 - Furniture and Decoration
 - Hoursework
 - Home

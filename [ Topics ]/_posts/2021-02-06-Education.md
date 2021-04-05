@@ -90,3 +90,13 @@ Psychology
 - The behavior of shopping -> Shopaholic
 - Procrastination
 - Post-traumatic stress disorder
+
+
+Reference
+=========
+
+- https://engoo.com/app/daily-news/article/most-japanese-parents-say-money-is-key-to-education/mKnvlonuEeqPA0tjSxl44Q
+- https://engoo.com/app/daily-news/article/youtuber-is-fifth-most-popular-dream-job-in-korea/RmJc_BBxEemPgdvODqKdEw
+- https://engoo.com/app/daily-news/article/31-of-uk-students-say-university-not-good-value/JN9mrq6rEeq6aTeHXI6XDg
+- https://engoo.com/app/daily-news/article/study-paper-reading-more-effective-than-screen-reading/OwNW9GFwEemBDZtmfXhvLQ
+
