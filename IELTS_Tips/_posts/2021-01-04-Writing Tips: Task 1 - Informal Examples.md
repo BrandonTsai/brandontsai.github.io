@@ -123,7 +123,7 @@ Topic: Apology
 
 > Write a letter to a friend. You have borrowed something from your friend 
 > and it got damaged.
-> 
+>
 > - Apologize for damaging the product
 > - Explain what happened
 > - Say how are you going to fix the issue
