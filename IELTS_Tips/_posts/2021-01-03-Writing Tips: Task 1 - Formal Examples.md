@@ -190,6 +190,7 @@ Reference: https://www.ielts.com/about/news-and-articles/article-a-good-strategy
 
 
 **Notes:**
+
 Opening:
 - ``I am writing to express an interest in the position of``...
 - ``I am writing to express my desire to``
