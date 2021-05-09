@@ -97,7 +97,8 @@ Richard Martinez
 
 Topic: Advise
 ------
-### IELTS Writing Task 1 Vocabulary to Advise
+
+**Notes:**
 
 I am happy to advise you that
 I strongly advise you to/not to
@@ -108,17 +109,15 @@ Please do consider my advice because
 In my honest opinion I would
 I would strongly suggest you consider 
 
------
+
+<BR>
+**Example:**
+<BR>
+
 > Write a letter to your favorite restaurant. Include the following  
 > - Your reason for writing  
 > - What you like about the restaurant  
 > - Suggestions for improvement
-
-
-
-
-
-
 
 
 
@@ -139,9 +138,11 @@ Chris Omon
 
 Topic: Apology
 ----------
+
 refer : https://ieltsetc.com/2020/01/letter-of-apology/
 
------
+
+**Example:**
 
 > You have received a letter from your university of Albion demanding a reason for your absence  
 from an exam. You were ill that day, but failed to submit the evidence. Write a letter to the  
@@ -169,8 +170,11 @@ Deborah Meaden
 
 Topic: Applications
 ---------------------------------
+
 Reference: https://www.ielts.com/about/news-and-articles/article-a-good-strategy-for-writing-ielts-letters-the-job-application
 
+
+**Notes:**
 Opening:
 - ``I am writing to express an interest in the position of``...
 - ``I am writing to express my desire to``
@@ -191,8 +195,10 @@ qualifications:
 Ending:
 - ``Should you require further information, do not hesitate to contact me.`` Please find my CV attached.
 
------
 
+<BR>
+**Examples:**
+<BR>
 
 > You live in an English speaking country and you want to do some voluntary, unpaid work in a developing country. Write a letter to a company called Cultural Expeditions, which organises such trips.  In your letter:
 > -   Explain why you want to do the voluntary work.
@@ -226,7 +232,8 @@ Topic: Resignations
 > -   Tell your boss of your decision and explain why you are leaving.
 > -   Explain what you have learnt from your current job and how you feel about leaving
 > -   Ask for a reference letter.
-> 
+>
+
 Dear Mr. Smith,
 
 ``I am writing this letter to inform you of`` my decision to resign from the post of Sr Project Manager of your **esteemed** organization ``so that`` I can **pursue** my career in the upcoming field of machine learning.
