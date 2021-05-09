@@ -24,8 +24,9 @@ Letter Structure
 - `Yours sincerely,` | `Yours faithfully,`
 - Brandon Tsai
 
+<HR>
 
-Complaints
+Topic: Complaints
 ----------------
 
 ### Vocabularies:
@@ -76,31 +77,6 @@ In your letter
 – Say what you would like the manager to do**  
 
 
-Dear Sir or Madam,
-
-I am writing to express my displeasure with the oven I bought from your shop in Edgecliff two weeks ago.
-
-
-The oven works very well at the begingin. However, it start showing some issues after two weeks. Sometimes, it just can not work fully funtionally, especially the power of the oven is not enough.
-
-I have phoned your shop yeaterday, and a young girl answered the phone.
-I described the problems of my oven and ask her to change a new oven for me.
-But she said she does not have the permission and reject my request.
-What is worse, her attitute was very rude and impatitant.
-
-Please give me the refund or replace a new one to me. Besides, I would strongly suggest you to watch the displines of your employees. Make sure they are well trained.
-
-
-Your faithfully,
-
-Lulu Chiu
-
-
-
-
-
-
-
 Dear Siror Madam  
   
 **I am writing to express my disappointment with** one new fridge that I bought two weeks ago in your shop. After purchasing the Frigorific 5000 at your shop, it was sent to my house two days later. At the moment that I received it, the **technician** sent by you help me to connect it properly, and apparently it was working well. But, after two weeks it made a loud noise during the night and completely stopped working from there on.  
@@ -115,7 +91,7 @@ Yours faithfully
 Richard Martinez
 
 
-Advise
+Topic: Advise
 ------
 ### IELTS Writing Task 1 Vocabulary to Advise
 
@@ -157,7 +133,7 @@ Recently, I observed the customer service is dropping. This may be as a result o
 Yours faithfully,
 Chris Omon
 
-Apology
+Topic: Apology
 ----------
 refer : https://ieltsetc.com/2020/01/letter-of-apology/
 
@@ -187,7 +163,7 @@ My name is Deborah Meaden (student number A345), and `I would first like to sinc
 Yours faithfully,  
 Deborah Meaden
 
-Applications
+Topic: Applications
 ---------------------------------
 Reference: https://www.ielts.com/about/news-and-articles/article-a-good-strategy-for-writing-ielts-letters-the-job-application
 
@@ -239,7 +215,7 @@ Yours faithfully,
 
 Brandon
 
-Resignations
+Topic: Resignations
 ----------------
 
 > You have decided to resign from your work in order to try a new field. Write a letter of resignation to your boss. In your letter:
@@ -265,7 +241,7 @@ Dhvanil Desai
 
 
 
-Make Arrangement
+Topic: Make Arrangement
 --------------------------
 
 > Write a letter to the hotel for making the arrangement. In your letter say,
@@ -287,7 +263,7 @@ Yours faithfully,
 XYZ
 
 
-Reject Offer
+Topic: Reject Offer
 --------------
 
 > You cannot go to a company where you got an offer. Write a letter to the HR supervisor to**
@@ -306,6 +282,3 @@ I would like to keep the lines of communication open between our two parties, an
 Yours faithfully,
 
 Brandon
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODU0MTIzMDVdfQ==
--->
