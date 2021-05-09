@@ -86,9 +86,11 @@ Opening:
 > A friend, who lives in another country, has invited to you come and stay with him/her on
 > your next holiday. You are too busy to accept the invitation. Write a letter to your
 > friend. In your letter: 
+> 
 > –  thank him/her for the invitation 
 > –  explain why you cannot come 
 > –  give him/her your other news
+> 
 
 
 Dear Peter,
@@ -121,9 +123,11 @@ Topic: Apology
 
 > Write a letter to a friend. You have borrowed something from your friend 
 > and it got damaged.
->	- Apologize for damaging the product
->	- Explain what happened
->	- Say how are you going to fix the issue
+> 
+> - Apologize for damaging the product
+> - Explain what happened
+> - Say how are you going to fix the issue
+>
 
 
 Dear Emily,
