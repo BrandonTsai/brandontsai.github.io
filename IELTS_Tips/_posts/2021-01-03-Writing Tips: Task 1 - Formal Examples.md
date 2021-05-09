@@ -95,6 +95,7 @@ Yours faithfully
 Richard Martinez
 
 
+<HR>
 Topic: Advise
 ------
 
@@ -136,6 +137,7 @@ Recently, I observed the customer service is dropping. This may be as a result o
 Yours faithfully,
 Chris Omon
 
+<HR>
 Topic: Apology
 ----------
 
@@ -168,6 +170,8 @@ My name is Deborah Meaden (student number A345), and `I would first like to sinc
 Yours faithfully,  
 Deborah Meaden
 
+
+<HR>
 Topic: Applications
 ---------------------------------
 
@@ -225,6 +229,8 @@ Yours faithfully,
 
 Brandon
 
+
+<HR>
 Topic: Resignations
 ----------------
 
@@ -251,7 +257,7 @@ Yours sincerely
 Dhvanil Desai
 
 
-
+<HR>
 Topic: Make Arrangement
 --------------------------
 
@@ -274,6 +280,7 @@ Yours faithfully,
 XYZ
 
 
+<HR>
 Topic: Reject Offer
 --------------
 
