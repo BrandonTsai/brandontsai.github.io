@@ -24,8 +24,20 @@ Letter Structure
 - `Yours sincerely,` | `Yours faithfully,`
 - Brandon Tsai
 
-<HR>
 
+Tips
+=======
+
+- No more than 20 minutes
+- Write Opening and Ending immediately (1 minute)
+- list key word and 2 short ideas for each discuss point (1-2 minutes)
+- Complete whole article. (13 minutes)
+- Check errors and refine (2-3 minutes)
+
+
+
+
+<HR>
 Topic: Complaints
 ----------------
 
