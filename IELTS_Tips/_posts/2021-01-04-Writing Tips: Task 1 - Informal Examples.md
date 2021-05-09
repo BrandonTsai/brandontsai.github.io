@@ -1,3 +1,8 @@
+---
+title: "Writing Tips: Task 1 - Informal Examples.md"
+author: Brandon Tsai
+---
+
 Topic: Invitation
 -----------------------
 
