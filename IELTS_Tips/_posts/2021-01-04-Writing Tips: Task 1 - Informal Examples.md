@@ -1,4 +1,4 @@
-Topic: Send Invitation
+Topic: Invitation
 -----------------------
 
 **Vocabulary:**
@@ -19,6 +19,19 @@ Topic: Send Invitation
 | ceremony                              | a wedding/graduation ceremony                                                              |
 | banquet                               | This **banquet hall** is perfect for hosting  our wedding reception.                       |
 | **Venues**                            | We don't yet know what the venue will be for the ceremony.                                 |
+
+
+**Notes**
+
+If the questions ask you to invite your boss/manager/professor, you should use "Formal" tone
+otherwise, use "Informal tone" to invite your friend.
+
+
+| Formal                                                                                                                              | Informal                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| - ``It would be my pleasure if you would`` join us for dinner tonight. <BR> - ``Would you like to`` attend the performance with me? | - ``Do you want to`` have a drink with me? |
+
+
 
 
 <BR>
@@ -47,7 +60,7 @@ Best wishes,
 Rahul
 
 
-Topic:  Reply Invitation
+Topic: Reply Invitation
 ------------------
 
 **Notes:**
@@ -55,10 +68,11 @@ Topic:  Reply Invitation
 Opening:
 - I hope you are well and I am writing to respond your kind invitation.
 
-| purpose | sentense                                                                                                                                                                                   |
-| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| accept  | Sure, that would be great!                                                                                                                                                                 |
-| decline | - I ``appreciate the`` wedding ``invitation but won't be able to come due to`` another **engagement**. <BR> - Sorry, but I have a conflicting **commitment** and don't think I'll make it. |
+| Usage   | Formal                                                                                                                                                                 | Informal                                                                     |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| accept  | - ``Thank you very much for offering to`` have me tomorrow. ``I will be there.``                                                                                       | - Sure, that would be great!                                                 |
+| decline | - ``Thanks for asking, but I am afraid`` I'm busy tonight. <BR> - I ``appreciate the`` wedding ``invitation but won't be able to come due to`` another **engagement**. | Sorry, but I have a conflicting **commitment** and don't think I'll make it. |
+
 
 <BR>
 **Example**

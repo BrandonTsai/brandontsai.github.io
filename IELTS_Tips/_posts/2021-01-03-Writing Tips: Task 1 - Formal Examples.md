@@ -17,20 +17,19 @@ Letter Structure
 =============
 
 
-- Dear Mr. Smith  | ``Dear Sir or Madam,``
+- Greeting: Dear Mr. Smith  | ``Dear Sir or Madam,``
 - Opening: ``1 Compound Sentence`` to show this letter's purpose.
 - `2~3 sentences` for each Discuss Point. 
-- Closing:
-- `Yours sincerely,` | `Yours faithfully,`
-- Brandon Tsai
+- Closing: `Yours sincerely,` | `Yours faithfully,`
+- Sign: Brandon Tsai
 
 
-Tips
+Time Management
 =======
 
 - No more than 20 minutes
-- Write Opening and Ending immediately (1 minute)
-- list key word and 2 short ideas for each discuss point (1-2 minutes)
+- Write Greeting, Closing and Sign immediately (1 minute)
+- list 2-3 key words for each discuss point (1-2 minutes)
 - Complete whole article. (13 minutes)
 - Check errors and refine (2-3 minutes)
 
