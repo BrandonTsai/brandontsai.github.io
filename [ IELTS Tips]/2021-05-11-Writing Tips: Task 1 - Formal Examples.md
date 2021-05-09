@@ -1,3 +1,8 @@
+---
+title: "Writing Tips: Task 1 - Formal Examples.md"
+author: Brandon Tsai
+---
+
 
 Proper Tone
 ==========
