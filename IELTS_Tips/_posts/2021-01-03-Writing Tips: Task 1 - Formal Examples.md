@@ -29,7 +29,7 @@ Letter Structure
 Topic: Complaints
 ----------------
 
-### Vocabularies:
+**Vocabularies:**
 <iframe src="https://quizlet.com/522213089/flashcards/embed?i=7u4xy&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
 | Word                  | Def                                                                                                                                                 |
@@ -55,20 +55,24 @@ Topic: Complaints
 | foul                  | (a) very bad or disagreeable; very dirty                                                                                                            |
 | **rectify**           | to make right, correct                                                                                                                              |
 
+**Notes**
 
-### Opening:
+Opening:
 - ``I am writing to express my displeasure with ...``
 
-### Discuss Points:
+Discuss Points:
 - several problems reoccur at...
 - the problem mentioned above seriously affect ...
 - ``To make matters worse,``
 - it is extremely disappointing that ....
 
-### Ending:
+Ending:
 - I hope you will consider my [situation/suggestion] favourably.
 
 
+<BR>
+**Examples**:
+<BR>
 
 > You recently bought a piece of equipment for your kitchen but it did not work. You phoned the shop but no action was taken. Write a letter to the shop manager.  
 In your letter  
